@@ -1,0 +1,5 @@
+KUHPVIBQKVOSHWHXBPOFUXHRPVLLDDWVOSKWPR EDDVVIDWQRBHBGLLBBPKQUNRVOHQEIRLWOKKRDD
+
+Encryption algorithm is a combination of  columnar transposition and simple shift substitution.
+The key length for the columnar transposition is less than or equal to 10 letters long.
+The original message is in English, and the original message contains only letters (no punctuation, numbers, etc).
